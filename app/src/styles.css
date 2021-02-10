@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 480px;
+}
+
+button {
+  max-width: 120px;
+  margin: auto;
+  margin-top: 24px;
+}
